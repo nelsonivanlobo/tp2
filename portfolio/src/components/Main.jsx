@@ -3,7 +3,7 @@
 const Main = () => {
   return (
     <div>
-        <p>aasdsad</p>
+        <p>Hola me llamo Facundo Joaquin Gil, tengo 23 años y soy estudiante de segundo año de la tecnicatura en programacion de la UTN, me enseñaron y estoy estudiando lenguajes como C#, Javascript y SQL</p>
     </div>
   )
 }

@@ -1,10 +1,10 @@
-import mati from "../assets/perro.jpg"
+import Joaquin from "../assets/perfil.jpg"
 
 const Header = () => {
   return (
     <div>
-            <h1>Joaquin</h1>
-            <img src={mati} alt="" className="imagen_header"/>
+            <h1>Facundo Joaquin Gil</h1>
+            <img src={Joaquin} alt="" className="imagen_header"/>
 
     </div>
   )
