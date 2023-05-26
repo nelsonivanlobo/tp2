@@ -5,7 +5,7 @@ import Main from "../components/Main"
 
 const Home = () => {
 
-    const alumno={nombre:"joaquin", apellido:"gil", edad:23}
+   const alumno={nombre:"Joaquin", edad:"23", legajo:"55699", numtel:"3816566750", deportefavorito:"basquet y futbol", hobbie:"jugar cs con mis amigos de la facultad" }
 
   return (
    <>
@@ -17,3 +17,5 @@ const Home = () => {
 }
 
 export default Home
+
+ 
