@@ -8,7 +8,7 @@ const Header = () => {
             <img src={Joaquin} alt="" className="imagen_header"/>
             <div className='nav'>
                   <nav className="navbar navbar-light bg-light">
-                  <Link to="/components/Contacto" className='boton_contacto'>Contacto</Link>
+                  <Link to="/components/Maincontacto  " className='boton_contacto'>Contacto</Link>
                   <Link to="/" className='boton_contacto'>volver a inicio</Link>
                   </nav>
 
