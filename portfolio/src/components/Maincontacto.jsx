@@ -2,12 +2,7 @@
 
 const Maincontacto = () => {
   return (
-    <body className="body_form">
-    <div className='nav2'>
-        <nav className="navbar navbar-light bg-light">
-        
-        </nav>
-    </div>
+  
     <div className="form2">
           <h1 className='h1_form'>Contacto:</h1>
           <form  className="form1">
@@ -21,7 +16,7 @@ const Maincontacto = () => {
 
 
 
-    </body>
+  
   )
 }
 
