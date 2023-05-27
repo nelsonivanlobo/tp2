@@ -1,19 +1,11 @@
 .imagen_header{
-  width:10%;
-  height:10%;
-}
-
-.div_img{
- display: flex;
-}
-
-.ftr_img{
-  width: 100px;
-  height: auto;
+  width:15%;
+  height:15%;
+  border-radius: 30%;
 }
 
 .main_footer{
-  background-color: blue;
+  background-color: tomato;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -22,7 +14,7 @@
 }
 
 .div_main{
-  background-color: yellow;
+  background-color: tomato;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -35,7 +27,7 @@ width: 50%;
 }
 
 .main_header{
-  background-color: blue;
+  background-color: tomato;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -45,13 +37,13 @@ width: 50%;
 }
 
 .boton_contacto{
-color: aliceblue;
+color: black;
 margin: 15px;
 
 }
 
 .form2{
-  background-color: yellow;
+  background-color:tomato;
   display: flex;
   flex-direction: column;
   justify-content: center;

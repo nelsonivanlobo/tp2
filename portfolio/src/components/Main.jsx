@@ -1,5 +1,4 @@
 
-
 const Main = ({alumno}) => {
   return (
     <div className="div_main">
@@ -12,8 +11,8 @@ const Main = ({alumno}) => {
                           </ul>
                         </div>
                         <div className="card-body">
-                          <h1 className="card-title">{alumno.nombre} Gil</h1>
-                          <p className="card-text">Soy estudiante de programacion en la UTN tengo {alumno.edad}, mi numero de telefono es {alumno.numtel}. Aprendi lenguajes como C#, Javascrip y SQL.</p>
+                          <h1 className="card-title">{alumno.nombre}</h1>
+                          <p className="card-text">Soy estudiante de programacion en la UTN tengo {alumno.edad}, mi numero de telefono es {alumno.numtel}.</p>
                           
                           
                         </div>
